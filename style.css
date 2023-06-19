@@ -1,0 +1,28 @@
+
+#section1{
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.section1 h1{
+    text-align: center;
+    
+}
+.logo{
+    height: 20px;
+width: 76px;
+left: 12px;
+top: 10px;
+border-radius: nullpx;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: #6070ff;
+
+
+}
